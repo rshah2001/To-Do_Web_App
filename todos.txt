@@ -1,6 +1,1 @@
-call car dealer
-complete python code
-play game
-call doctor
-charge phone
-fix the phone
+
